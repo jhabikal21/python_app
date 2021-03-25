@@ -9,3 +9,5 @@ if [ $2~/p/ ];
 then 
 	ping $1 -c 2
 fi
+
+#added one extra line
